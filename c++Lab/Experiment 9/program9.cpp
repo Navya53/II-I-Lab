@@ -4,7 +4,7 @@ class A{
 	public:
 		int a;
 		A(){
-			a = 10;
+			a = 20;
 			cout << "Constructor created" << endl;
 		}
 		void display(){
