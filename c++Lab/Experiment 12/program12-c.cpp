@@ -9,7 +9,7 @@ class A{
 };
 class B:public A{
 	public:
-	int y = 10;
+	int y = 20;
 	void display(){
 		cout << y;
 	}
