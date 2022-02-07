@@ -17,9 +17,9 @@ class details{
 	}
 };
 int main(){
-	int rollno = 44;
-	char name[50] = "Harini";
-	int id = 12;
+	int rollno = 53;
+	char name[50] = "Navya";
+	int id = 11;
 	details d;
 	d.display(rollno);
 	d.display(id, rollno, name);
